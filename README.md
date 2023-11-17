@@ -1,1 +1,7 @@
 # time-varying-criminal-network-analysis
+
+The primary objective of this project is to conduct a comprehensive analysis of the dynamic changes in the network structure, observing how participants respond and adapt to an escalating array of constraints. The focus is on predicting the significance of network nodes using measures such as eigenvector centrality, providing an insightful overview of its configuration, evolution, and the roles played by individual actors.
+
+The network comprises 110 participants, each assigned a unique identifier. Players 1-82 are designated as traffickers, while Players 83-110 encompass non-traffickers, including financial investors, accountants, and owners of various importation businesses. The inception of the investigation centered around Daniel Serero, the alleged mastermind of a drug network operating in downtown Montréal. Serero initially sought to import marijuana into Canada from Morocco via Spain, leading to the project's initiation.
+
+Notably, the research transitioned during Phase 4 following the interception of the drug shipment. Subsequently, traffickers shifted their focus to the importation of cocaine from Colombia, with transit routes through the United States. The project aims to provide a nuanced understanding of these strategic shifts and adaptations within the network, shedding light on the underlying dynamics and the pivotal role of key actors.
